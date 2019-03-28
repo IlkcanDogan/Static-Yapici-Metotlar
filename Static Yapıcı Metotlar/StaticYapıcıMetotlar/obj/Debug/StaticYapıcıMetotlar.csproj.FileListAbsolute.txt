@@ -1,0 +1,6 @@
+c:\users\mka\documents\visual studio 2012\Projects\StaticYapıcıMetotlar\StaticYapıcıMetotlar\bin\Debug\StaticYapıcıMetotlar.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\StaticYapıcıMetotlar\StaticYapıcıMetotlar\bin\Debug\StaticYapıcıMetotlar.exe
+c:\users\mka\documents\visual studio 2012\Projects\StaticYapıcıMetotlar\StaticYapıcıMetotlar\bin\Debug\StaticYapıcıMetotlar.pdb
+c:\users\mka\documents\visual studio 2012\Projects\StaticYapıcıMetotlar\StaticYapıcıMetotlar\obj\Debug\StaticYapıcıMetotlar.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\StaticYapıcıMetotlar\StaticYapıcıMetotlar\obj\Debug\StaticYapıcıMetotlar.exe
+c:\users\mka\documents\visual studio 2012\Projects\StaticYapıcıMetotlar\StaticYapıcıMetotlar\obj\Debug\StaticYapıcıMetotlar.pdb
